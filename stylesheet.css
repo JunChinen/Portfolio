@@ -1,0 +1,49 @@
+li{
+  float:left;
+  list-style:none;
+}
+.header{
+  background-color: #26d0c9;
+  color:#fff;
+  height:90px;
+}
+.header-logo {
+  float:left;
+  color: #FFFFFF;
+  font-size: 40px;
+}
+.header-list{
+  float:right;
+  font-size: 20px;
+
+}
+span{
+  font-size: 30px;
+}
+.main{
+  background-color: #EEEEEE;
+  height:5000px;
+}
+.logo1{
+  padding:15px;
+}
+.footer{
+  background-color: #26d0c9;
+  height: 120px;
+}
+.footer-logo{
+  font-size: 20px;
+  color: #fff;
+  float:left;
+}
+.footer-list{
+    float;right;
+}
+.footer-list li{
+  font-size: 15px;
+  color: #FFFFFF;
+}
+video {
+    width: 100%;
+    height: auto;
+}
